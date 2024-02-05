@@ -4,7 +4,7 @@ This repository contains notes from my various university courses, covering a ra
 
 ## Folder Structure
 
-The repository is organized into folders, each representing a specific course or subject. Within these folders, you will find notes, codes, documents, and related materials.
+The repository is organized into folders, each representing a specific course or subject. Within these folders, you will find my reading materials, notes, codes, documents, and related materials.
 
 ## Disclaimer
 
